@@ -1,42 +1,46 @@
 # 👋 Hi, I’m Tamás Viktor Házos
 
-I'm a frontend developer focused on building clean, responsive, and interactive web applications. I love working with modern tools like **React** and enjoy turning ideas into real, usable products.
+I'm a frontend developer focused on building clean, responsive, and interactive web applications. I enjoy using modern tools like **React**, **Vite**, and **CSS Modules** to turn ideas into real, user-friendly products.
+Currently, I’m refining my knowledge of HTML, CSS, JavaScript, and React by building hands-on projects and learning best practices around performance and clean code.
 
 ---
 
-### 👀 I’m interested in
-- Practicing and mastering **React**
-- Building mini projects with real-world logic
-- Improving UI design and interactivity
-- Exploring new frontend frameworks
+## 👀 I’m interested in
+- Junior Frontend Developer roles
+- React-based development work
+- Freelance and remote-friendly projects
+- Working with design-focused teams
 
 ---
 
-### 🌱 I’m currently learning
-- React hooks and custom components
-- State management and API integration
-- Performance optimization in React apps
-- Clean code patterns for frontend projects
+## 🌱 I’m currently learning
+- Advanced React patterns and hooks
+- State management and context
+- Frontend performance optimization
+- Clean UI/UX patterns
 
 ---
 
-### 💬 I’m open to collaborate on
-- React-based side projects
-- UI/UX-focused frontend work
-- Developer portfolios or game-like interfaces
+## 💬 I’m open to collaborate on
+- React-based side projects or small apps
+- Frontend tools, games, or creative experiments
+- Developer portfolio UI/UX reviews
 
 ---
 
-### 📫 How to reach me
+## 🚀 Projects
+- 🎲 [Tenzies Game](https://your-link.netlify.app) – React dice game using state, components, and effects  
+- 🖼️ [Meme Generator](https://your-link.netlify.app) – Dynamic UI with controlled inputs and random image APIs  
+- 🌤️ [Weather Dashboard](https://your-link.netlify.app) – Real-time weather data using geolocation and OpenWeather API  
+- 🎮 [Assembly Game](https://your-link.netlify.app) – React typing game using dynamic rendering and keyboard events
+
+---
+
+## 📫 How to reach me
 📧 [tamasviktorhazos@gmail.com](mailto:tamasviktorhazos@gmail.com)  
-🌐 [My Portfolio](https://your-portfolio-link.netlify.app) *(update with your link)*
+🌐 [My Portfolio](https://your-portfolio-link.netlify.app)
 
 ---
 
-### ⚡ Fun fact
-I recharge by caring for houseplants and love refining both code and real-life systems for simplicity and clarity.
-
-<!---
-tamasViktH/tamasViktH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡ Fun fact
+I’ve lived in 4 countries, speak 4 languages, and recharge by simplifying both my digital workspaces and real-life surroundings (especially with plants 🌿).
