@@ -38,7 +38,8 @@ Currently, I’m refining my knowledge of HTML, CSS, JavaScript, and React by bu
 
 ## 📫 How to reach me
 📧 [tamasviktorhazos@gmail.com](mailto:tamasviktorhazos@gmail.com)  
-🌐 [My Portfolio]([https://your-portfolio-link.netlify.app](https://tamas-viktor-hazos-portfolio.netlify.app/))
+🌐 [My Portfolio](https://tamas-viktor-hazos-portfolio.netlify.app/)
+
 
 ---
 
